@@ -1,6 +1,6 @@
 {
   "name": "highlight-redux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A redux of highlight.js for the Browserify human",
   "main": "lib/index.js",
   "repository": {
