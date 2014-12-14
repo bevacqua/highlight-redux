@@ -14,7 +14,7 @@ Write some code in ```<code>``` blocks inside of ```<pre>``` blocks, per [spec](
 
 ```html
 <pre class="highlight-js"><code class="js">var b = "hey";</code></pre>
-...
+```
 
 
 Include the theme you want in your css precompiler language or in your html. Sass example:
